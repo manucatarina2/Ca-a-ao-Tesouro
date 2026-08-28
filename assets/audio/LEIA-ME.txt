@@ -1,0 +1,5 @@
+Coloque aqui o arquivo de áudio MP3 chamado "tesouro.mp3".
+Este arquivo será tocado quando o jogador encontrar o tesouro (distância < 10 passos).
+
+Sugestão: use um arquivo de música curto e alegre em MP3.
+O arquivo deve se chamar exatamente: tesouro.mp3

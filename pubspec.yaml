@@ -1,0 +1,28 @@
+name: caca_ao_tesouro
+description: "Caça ao Tesouro - Aplicativo de geolocalização para PPDM"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  geolocator: ^13.0.4
+  audioplayers: ^6.4.0
+  permission_handler: ^11.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/audio/
